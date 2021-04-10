@@ -1,0 +1,13 @@
+h1{
+    color:blue
+}
+h2{
+    color:crimson
+}
+*{
+    border:solid
+}.Header{
+    background-color: aqua;
+    display:flex
+    justify-content space-between
+} 
